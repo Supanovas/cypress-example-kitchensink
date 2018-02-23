@@ -31,7 +31,7 @@ script:
   ## variable by default and apply
   ## this to the run.
  # - $(npm bin)/cypress run --record
-    - $(npm bin)/cypress run --record --key 5b1c24a6-3705-4c43-b620-387fa6c6cc93
+    - $(npm bin)/cypress run --record --key aa8279f3-afd5-4aca-829d-18ed7a2ccf9f
 
   ## alternatively we could specify
   ## a specific record key to use
